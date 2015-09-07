@@ -6,6 +6,6 @@ and/or any other files listed in the posting.
 
 Files:
   README.md - You're lookin' at it.
-  LICENSE.md - Lincense information.
+  LICENSE.md - License information.
   syslinux.cfg - the configuration file for booting the drive.
   
